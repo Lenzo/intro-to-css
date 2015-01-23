@@ -1,5 +1,21 @@
 html {
   background-color: #000000;
 
-color: #fff;
+  color: #fff;
+}
+
+h1 {
+  color: #c5cde9;
+  font-weight: normal;
+  font-size: 5rem;
+  line-height: 1;
+  text-shadow: 5px 5px 5px #7A21EE;
+  font-family: 'Josefin Slab', serif;
+}
+
+p {
+  font-style: italic; /* this is how you leave notes in css*/
+  text-decoration: line-through
+  text-align: center;
+  font-family: verdana, sans-serif;
 }
